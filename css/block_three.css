@@ -1,0 +1,108 @@
+.form-one-div{
+    border-style: ridge;
+    border-color: rgb(6, 179, 127);
+    border-width: 10px;
+    width: 10cm;
+    color: whitesmoke;
+}
+.form-one{
+    padding: 5px;
+    
+}
+.marquee-bar-two{
+    background-color: blue;
+    height: 1cm;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    margin-bottom: 0.5cm;
+    margin-top: 0.5cm;
+    color: whitesmoke;
+    font-size: large;
+    font-style: bold;
+    font-family: 'Times New Roman';
+
+}
+/* Messages container School life*/
+.div-one{
+    background-color: orangered;
+    display: grid;
+    grid-template-columns: 10cm 10cm 10cm;
+    height: 7cm;
+    column-gap: 1.8cm;
+    padding-bottom: 0.5cm;
+    margin-top: 0.3cm;
+    margin-left: 0.3cm;
+    margin-right: 0.3cm;
+}
+
+.sub-div-one-one{
+    margin-top: 0.5cm;
+    border-color: blue;
+    border-style: groove;
+    margin-left: 2.2cm;
+}
+.sub-div-one-one h3{
+    margin-left: 1cm;
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.div-two{
+    margin-left: 1.3cm;
+}
+.div-two h2{
+    color: purple;
+    margin-left:12cm;
+    padding: 7px;
+    border-color: brown;
+    border-style: ridge;
+    width: 9.5cm;
+    margin-top: 0.3cm;
+}
+
+.sub-div-two-one{
+    display: grid;
+    grid-template-columns: 10cm 10cm 10cm;
+    column-gap: 1.5cm;
+}
+
+
+.sub-div-two-one img{
+    border-color: rgb(5, 58, 156);
+    border-style: groove;
+    width: 400px;
+}
+.pic-div-container{
+    display: grid;
+    grid-template-rows: 12cm;
+    row-gap: 2cm;
+}
+
+/* Other images here */
+.pic-container-students{
+    background-color: rgb(226, 158, 33);
+    width: 100%;
+    height: 9.5cm;
+    margin-top: 0.5cm;
+    display: grid;
+    grid-template-columns: 10cm 10cm 10cm;
+    column-gap: 1cm;
+}
+
+.sub-pic-container-students{
+    margin-left: 2cm;
+}
+
+.sub-pic-container-students h3{
+    color: whitesmoke;
+    text-decoration: underline;
+    margin-top: 0.3cm;
+    width: 10cm;
+
+}
+
+.sub-pic-container-students marquee{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: -0.3cm;
+}

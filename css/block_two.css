@@ -1,0 +1,33 @@
+.section-two-container{
+    background-color: rgb(206, 203, 203);
+    display: grid;
+    grid-template-columns: 10cm 15cm;
+    column-gap: 8cm;
+    padding-top: 0.5cm;
+}
+
+.principal-div{
+    display: grid;
+    grid-template-columns: 5cm 8cm;
+    column-gap: 3cm;
+    margin-left: 0.3cm;
+    margin-bottom: 0.3cm;
+}
+
+.statement-div-container{
+    display: grid;
+    grid-template-columns: 8cm 8cm;
+    column-gap: 1cm;
+}
+
+.statement-one{
+    color:black;
+    background-color: orange;
+    height: 5.5cm;
+}
+
+.statement-two{
+    color:black;
+    background-color: greenyellow;
+    height: 5.5cm;
+}
